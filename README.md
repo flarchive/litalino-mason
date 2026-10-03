@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of litalino/mason.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/mason) or the [upstream repository](https://github.com/Litalino/mason).
 
-**0** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/litalino-mason/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2`
+**3** versions archived · Latest: [`1.2.0`](https://github.com/flarchive/litalino-mason/tree/archive/v1.2.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-11-28 | `^1.2` | [Browse](https://github.com/flarchive/litalino-mason/tree/archive/v1.0.0) |
+| `1.0.1` | 2023-11-28 | `^1.2` | [Browse](https://github.com/flarchive/litalino-mason/tree/archive/v1.0.1) |
+| `1.2.0` | 2023-11-29 | `^1.2` | [Browse](https://github.com/flarchive/litalino-mason/tree/archive/v1.2.0) |
 
 Catalog entry: [packages/litalino-mason.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-mason.json)
 
